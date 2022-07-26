@@ -1,0 +1,7 @@
+D:\My data\training\az-204-demos\MyAzureSolution\azurewebapp01\obj\Release\net6.0\PubTmp\Out\azurewebapp01.exe
+D:\My data\training\az-204-demos\MyAzureSolution\azurewebapp01\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\My data\training\az-204-demos\MyAzureSolution\azurewebapp01\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\My data\training\az-204-demos\MyAzureSolution\azurewebapp01\obj\Release\net6.0\PubTmp\Out\azurewebapp01.dll
+D:\My data\training\az-204-demos\MyAzureSolution\azurewebapp01\obj\Release\net6.0\PubTmp\Out\azurewebapp01.deps.json
+D:\My data\training\az-204-demos\MyAzureSolution\azurewebapp01\obj\Release\net6.0\PubTmp\Out\azurewebapp01.runtimeconfig.json
+D:\My data\training\az-204-demos\MyAzureSolution\azurewebapp01\obj\Release\net6.0\PubTmp\Out\azurewebapp01.pdb
